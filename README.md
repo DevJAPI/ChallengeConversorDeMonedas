@@ -83,7 +83,7 @@ A: COP\
 Valor: 100\
 Tasa de cambio: 3,761.4279\
 Resultado: 376,142.79\
-Fecha: 2025-11-17 22:35:26\
+Fecha: 2025-11-17 22:35:26
 ------------------------------
 
 API utilizada:
@@ -101,3 +101,4 @@ Posibles mejoras futuras:
 - Añadir más monedas disponibles para conversión.
 - Mejorar el manejo de errores para casos especiales.
 - Optimizar la estructura del proyecto sin cambiar su funcionamiento principal.
+- Probar nuevas API relacionadas a la conversión de monedas.
